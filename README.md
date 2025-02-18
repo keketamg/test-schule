@@ -1,2 +1,2 @@
-# test-schule
-test für der Schule
+# Test-Schule
+test für die Schule
